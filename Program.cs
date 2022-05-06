@@ -14,6 +14,9 @@ namespace Lecture_2_Project
             Console.WriteLine("Hello, what is your name user?");
             answer = Console.ReadLine();
             Console.WriteLine("Oh " + answer + " is an intresting name!");
+
+            Console.ReadKey();
+
             
         }
     }
