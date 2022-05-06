@@ -17,6 +17,12 @@ namespace Lecture_2_Project
 
             Console.ReadKey();
 
+            Console.WriteLine("\n\nNow that we got that out of the way what is your mother's maiden name?");
+            answer = Console.ReadLine();
+            Console.WriteLine("I know your wondering what I need with this information...\n I just wanted to state that " + answer + "is also an intersting name!");
+            
+
+
             
         }
     }
