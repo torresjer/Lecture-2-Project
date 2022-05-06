@@ -25,7 +25,7 @@ namespace Lecture_2_Project
             Console.ReadKey();
             Console.Clear();
 
-
+            Console.WriteLine("Thank you for participating in our exercise!");
         }
     }
 }
